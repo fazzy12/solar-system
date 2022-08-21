@@ -1,0 +1,19 @@
+{
+  "name": "solar-system",
+  "version": "1.0.0",
+  "description": "solar project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazzy12/solar-system.git"
+  },
+  "author": "ifeanyi kalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fazzy12/solar-system/issues"
+  },
+  "homepage": "https://github.com/fazzy12/solar-system#readme"
+}

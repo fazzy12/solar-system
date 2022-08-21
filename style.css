@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    position: relative;
+    background-image: url(./images/galaxy.gif);
+    height: 100vh;
+}
+
+.container{
+    position: absolute;
+    top: 5%;
+    left: 25.50%;
+}
+
+.settings-container{
+    margin-top: 30px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+input,
+select,
+button{
+    height: 30px;
+    width: 30%;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+button{
+    height: 35px;
+    color: aliceblue;
+    background-color: gray;
+    width: 38%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.display-box{
+    height: 400px;
+    width: 100%;
+    background-color: gray;
+    opacity: 0.30;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
